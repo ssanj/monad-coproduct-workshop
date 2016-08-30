@@ -23,3 +23,5 @@ tags
 .bash_history
 projectFilesBackup/*
 atlas
+.ctags_srcs/
+.tags
